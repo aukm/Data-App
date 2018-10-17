@@ -1,6 +1,15 @@
 {
 	"feed": [
 		{
+			"id": 16,
+			"name": "Krowne",
+			"image": "https://techviral.net/wp-content/uploads/2018/03/YOWHATSAPP-4-696x365.jpg",
+			"title": "¡Actualización de YoWhatsApp!",
+			"status": "Ya tenemos disponible la actualización de YoWhatsApp con base 2.18.293.<br><br>Podemos destacar entre sus novedades, saber qué mensajes se eliminan en el chat (🚫).<br><br>Para ver la lista completa de cambios (en inglés), puedes acceder acceder a la página oficial mediente el siguiente enlace..",
+			"timeStamp": "17-10-2018 13:09",
+			"url": "https://yousefalbasha.com/wa/yowa/"
+		},
+		{
 			"id": 15,
 			"name": "Krowne",
 			"image": "https://media.metrolatam.com/2018/06/22/whatsappnotdeleteconversationschatswhatsappchatdeletewhatsappukdeletereleasedateukpricewhatsappdeleteyourchat6945851160x665-a57db841dca1507dcb1cb7563d3dfd9b-1200x600.jpg",
