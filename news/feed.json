@@ -1,13 +1,22 @@
 {
 	"feed": [
 		{
+			"id": 18,
+			"name": "Krowne",
+			"image": "https://elnueve-compress.s3-accelerate.amazonaws.com/files/1540062326837whatsapp-playa%20(1).jpg",
+			"title": "WhatsApp tendrá un modo 'Vacaciones' para el verano",
+			"status": "WhatsApp ofrecerá un modo vacaciones para poder desconectarse y estar tranquilos durante el verano, sin necesidad de desconectar totalmente o desinstalar la aplicación.<br><br>Se trata de una doble apuesta de WhatsApp para traer más tranquilidad a sus usuarios, porque por un lado se mejorará el modo silencioso, que además incorporará nuevas opciones.<br><br>Leer más..",
+			"timeStamp": "21-10-2018 14:02",
+			"url": "https://www.elnueve.com/whatsapp-tendra-un-modo-vacaciones-para-el-verano"
+		},
+		{
 			"id": 17,
 			"name": "Krowne",
 			"image": "https://media.metrolatam.com/2018/10/19/whatsappmsportadas0001layer3copy4-1cccf9cfcfcb76ed7245105d61400c21.jpg",
 			"title": "Cómo mandarle mensajes a alguien que te tiene bloqueado",
 			"status": "Es posible contactar por WhatsApp a alguien que te tiene bloqueado, pero... piensa bien si quieres hacerlo realmente.<br><br>¿Peleaste con alguien y te bloquearon en WhatsApp? Lo peor de estas situaciones es que, muchas veces, te quedas sin medios para poder arreglar las cosas..<br><br>Leer más..",
 			"timeStamp": "21-10-2018 13:10",
-			"url": "https://www.fayerwayer.com/2018/10/whatsapp-mensajes-bloqueado/"
+			"url": "https://www.fayerwayer.com/2018/10/whatsapp-mensajes-bloqueado"
 		},
 		{
 			"id": 16,
