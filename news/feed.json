@@ -1,6 +1,15 @@
 {
 	"feed": [
 		{
+			"id": 19,
+			"name": "OsjakvD",
+			"image": "",
+			"title": "Actualización de GBWhatsApp transparente",
+			"status": "Ya está disponible en la sección de descargas, la actualización de GBWhatsApp transparente.<br><br>Lo teneis disponible en todas las arquitecturas disponibles, y podeis actualizar desde la sección de descargas.",
+			"timeStamp": "22-10-2018 03:34",
+			"url": ""
+		},
+		{
 			"id": 18,
 			"name": "Krowne",
 			"image": "https://elnueve-compress.s3-accelerate.amazonaws.com/files/1540062326837whatsapp-playa%20(1).jpg",
