@@ -1,6 +1,15 @@
 {
 	"feed": [
 		{
+			"id": 20,
+			"name": "TheFULL",
+			"image": "",
+			"title": "Actualización de YoWhatsApp 7.70",
+			"status": "Disponible para su descarga la actualización de YoWhatsApp.<br><br>Lo podéis descargar desde la sección de 'Descargas', estan disponibles sólo las versiones sin cambiador de emoticonos. Los nuevos iconos de la app son creación de lokopol (gracias).",
+			"timeStamp": "24-10-2018 15:03",
+			"url": ""
+		},
+		{
 			"id": 19,
 			"name": "OsjakvD",
 			"image": "",
