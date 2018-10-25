@@ -32,7 +32,7 @@
 }
 // Lista de cambios
 {
-	[data4=1.0.4.2] // Valor de actualización
+	[data4=1.0.4.1] // Valor de actualización
 	[strc=1.0.1] // Valor de la versión de WhatsaMods
 	[url=datas/changelog.dat]
 }
