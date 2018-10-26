@@ -38,7 +38,7 @@
 }
 // Ajustes
 {
-	[data5=1.0.5.1] // Valor de actualización
+	[data5=1.0.5.2] // Valor de actualización
 	[strc=1.0.1] // Valor de la versión de WhatsaMods
 	[url=datas/settings.dat]
 }
