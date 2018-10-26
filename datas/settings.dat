@@ -10,4 +10,12 @@
 		<theme_dark>
 		<0>
 	]
+	[
+		<SldScreen>      // Nombre de la seccion Selected Screen
+		<help-changelog> // Nombre del icono
+		<changelog>		 // Título de la sección
+		< > 		 	// Sumario de la sección
+		<true>			 // Aplicar color a la imagen
+		<changelog>		// Nombre del archivo para abrir en la activity
+	]
 }
