@@ -41,6 +41,10 @@
 [yowhatsapp=YoWhatsApp (Sin Emojis)]
 [yowhatsapp2=YoWhatsApp2 (Sin Emojis)]
 
+// Settings
+[settings_cat_pers=Personalización]
+[settings_theme_dark=Tema oscuro]
+
 // Xposed
 [xposed_status_cat=Módulo Xposed]
 [xposed_status_tt1=Estado del módulo]
