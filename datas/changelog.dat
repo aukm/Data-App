@@ -1,6 +1,26 @@
 {
 	[
 		<Category>
+		<v1.0.6-title>
+	]
+	[
+		<dateLog>
+		<v1.0.6-date>
+	]
+	[
+		<viewLog> // Nombre de la seccion Selected Screen
+		<log-new>   // Sumario de la sección
+		<v1.0.6a>   // Sumario de la sección
+	]
+	[
+		<viewLog> // Nombre de la seccion Selected Screen
+		<log-fix>   // Sumario de la sección
+		<v1.0.6b>   // Sumario de la sección
+	]
+}
+{
+	[
+		<Category>
 		<v1.0.5-title>
 	]
 	[
