@@ -71,6 +71,11 @@
 [about=Acerca de..]
 
 // Changelog
+[v1.0.6-title=Versión 1.0.6.151]
+[v1.0.6-date=1 Oct. 2018]
+[v1.0.6a=Añadida sección ajustes con opción de tema oscuro.]
+[v1.0.6b=Arreglado un error que impedía abrir la aplicación en Android 9.0 (Pie).]
+
 [v1.0.5-title=Versión 1.0.5.16]
 [v1.0.5-date=26 Oct. 2018]
 [v1.0.5a=Corregido un problema de la sección de Descargas que impedía descargar algunos MODS.]
@@ -91,8 +96,8 @@
 
 [v1.0.1-title=Versión 1.0.1.207]
 [v1.0.1-date=6 Sep. 2018]
-[v1.0.1a=Sección de noticias.]
-[v1.0.1b=Sección de descarga de MODs.]
+[v1.0.1a=Añadida sección de noticias.]
+[v1.0.1b=Añadida sección de descarga de MODs.]
 
 [v1.0.0-title=Versión 1.0.0.0]
 [v1.0.0-date=28 Ago. 2018]
