@@ -5,7 +5,7 @@
 			"name": "Krowne",
 			"image": "http://www.apktrendz.co/wp-content/uploads/2018/10/gBWHATSAPP.jpg",
 			"title": "¡Actualización de GBWhatsApp v6.60!",
-			"status": "¡Por fin tenemos disponible la actualización de GBWhatsApp v6.60!<br><br>Esta nueva actualización lleva la base de WhatsApp 2.18.327, y entre sus novedades trae las siguientes opciones:<br>• Ya no se mostrará la etiqueta de reenvío a los demás.<br>• Etiquetas @.<br>• Video llamada grupal.<br>• Citar mensaje deslizando.<br>• Stickers activos.<br>• Responder en privado cualquier mensaje de grupo.<br><br>Ahora puedes actualizar la aplicación desde la sección de Descargas. (En esta versión no esta disponible para descargar la arquitectura x86_64).",
+			"status": "¡Por fin tenemos disponible la actualización de GBWhatsApp v6.60!<br><br>Esta nueva actualización lleva la base de WhatsApp 2.18.327, y entre sus novedades trae las siguientes opciones:<br>• Ya no se mostrará la etiqueta de reenvío a los demás.<br>• Etiquetas @.<br>• Video llamada grupal.<br>• Citar mensaje deslizando.<br>• Stickers activos.<br>• Responder en privado cualquier mensaje de grupo.<br><br>Ahora puedes actualizar la aplicación desde la sección de Descargas. (En esta versión no esta disponible para descargar la arquitectura x86, se debe de instalar x86_64).",
 			"timeStamp": "07-11-2018 20:44",
 			"url": ""
 		},
