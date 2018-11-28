@@ -1,6 +1,15 @@
 {
 	"feed": [
 		{
+			"id": 25,
+			"name": "Krowne",
+			"image": "https://img.xda-cdn.com/IpjJpBNidDVxuX2h-ijm9nT-v5U=/http%3A%2F%2Fi.imgur.com%2F6EjA7z1.jpg",
+			"title": "Actualización de KMod FWA v2.7.4",
+			"status": "Ya está disponible la versión 2.7.4 desde el resositorio de Xposed.<br><br>Lista cambios:<br>- Añadido idioma Polaco.<br>- Arreglados problemas de interfaz.<br>- Arreglada la opción para evitar la eliminación de mensajes.<br>- Arregladas opciones de privacidad.<br>- Otros errores fueron corregidos.<br><br>Recordar que este módulo solo sirve para los que sois root y tenéis Xposed instalado y activo.",
+			"timeStamp": "28-11-2018 14:16",
+			"url": "http://repo.xposed.info/module/kmod.xposed"
+		},
+		{
 			"id": 24,
 			"name": "yonijuerga",
 			"image": "https://raw.githubusercontent.com/WhatsaMods/Data-App/master/news/mil.png",
