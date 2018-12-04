@@ -2,7 +2,7 @@
 		{
 			"id": 26,
 			"name": "lokopol",
-			"image": https://raw.githubusercontent.com/WhatsaMods/Data-App/master/news/mil.png
+			"image": "https://raw.githubusercontent.com/WhatsaMods/Data-App/master/news/mil.png"
 			"title": "hola grupo",
 			"status": "por aqui andamos probando esto. <br><br>",
 			"timeStamp": "04/12/2018",
