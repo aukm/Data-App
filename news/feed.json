@@ -2,11 +2,11 @@
 		{
 			"id": 26,
 			"name": "lokopol",
-			"image": "https://raw.githubusercontent.com/WhatsaMods/Data-App/master/news/mil.png"
+			"image": ""
 			"title": "Hola grupo",
 			"status": "por aqui andamos probando esto.",
 			"timeStamp": "04/12/2018",
-			"url": "http://repo.xposed.info/module/kmod.xposed"
+			"url": ""
 	"feed": [
 		{
 			"id": 25,
