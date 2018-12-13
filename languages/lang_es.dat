@@ -4,9 +4,9 @@
 [splash2=Cargando recursos..]
 
 // Variables para descargar desde MediaFire
-[schPos1=aria-label=\"Download file\"]
-[schPos2=href=\"]
-[schPos3=\">]
+[schPos1=aria-label="Download file"]
+[schPos2=href="]
+[schPos3=">]
 
 // Menu
 [menuNoticias=Noticias]
