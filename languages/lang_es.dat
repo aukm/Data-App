@@ -76,6 +76,10 @@
 [about=Acerca de..]
 
 // Changelog
+[v1.0.7-title=Versión 1.0.7.15]
+[v1.0.7-date=13 Dic. 2018]
+[v1.0.7a=Corregido un problema de la sección de Descargas que impedía descargar algunos MODS.]
+
 [v1.0.6-title=Versión 1.0.6.152]
 [v1.0.6-date=1 Oct. 2018]
 [v1.0.6a=Añadida sección ajustes con opción de tema oscuro.]
