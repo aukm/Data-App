@@ -76,6 +76,10 @@
 [about=Acerca de..]
 
 // Changelog
+[v1.0.8-title=Versión 1.0.8.102]
+[v1.0.8-date=15 Dic. 2018]
+[v1.0.8a=Personalización de la ventana flotante de descarga. Ahora se vuelve del color del tema activo, y muestra más información de la descarga.]
+
 [v1.0.7-title=Versión 1.0.7.15]
 [v1.0.7-date=13 Dic. 2018]
 [v1.0.7a=Corregido un problema en la sección de Descargas que impedía descargar cualquier MOD.]
