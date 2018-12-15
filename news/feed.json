@@ -1,5 +1,14 @@
 {	"feed": [
 		{
+			"id": 28,
+			"name": "Krowne",
+			"image": "",
+			"title": "Corrección de errores de YoWhatsApp",
+			"status": "Se ha realizado una actualización de YoWhatsApp con corrección de errores. La tenéis disponible en la sección de descargas.",
+			"timeStamp": "16-12-2018 00:16",
+			"url": ""
+		},
+		{
 			"id": 27,
 			"name": "yonijuerga",
 			"image": "https://techviral.net/wp-content/uploads/2018/03/YOWHATSAPP-4-696x365.jpg",
