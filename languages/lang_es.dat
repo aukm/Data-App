@@ -78,6 +78,10 @@
 [about=Acerca de..]
 
 // Changelog
+[v1.0.9-title=Versión 1.0.9.125]
+[v1.0.9-date=23 Dic. 2018]
+[v1.0.9a=Mejorado el código de las descargas, ahora puedes repetir la descarga si se realiza mal.]
+
 [v1.0.8-title=Versión 1.0.8.102]
 [v1.0.8-date=15 Dic. 2018]
 [v1.0.8a=Personalización de la ventana flotante de descarga. Ahora se vuelve del color del tema activo, y muestra más información de la descarga.]
