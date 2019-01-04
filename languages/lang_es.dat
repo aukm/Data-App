@@ -9,7 +9,6 @@
 [schPos3=">]
 
 // ZippyShare
-[zsServer=https://www4.zippyshare.com]
 [zsPos1=1]
 [zsPos2=2]
 [zsPos3=3]
@@ -89,9 +88,9 @@
 [about=Acerca de..]
 
 // Changelog
-[v1.1.0-title=Versión 1.1.0.125]
-[v1.1.0-date=04 Ene. 2019]
-[v1.1.0a=Añadidas nuevas funciones para los servidores de descarga.]
+[v1.1.1-title=Versión 1.1.0.125]
+[v1.1.1-date=04 Ene. 2019]
+[v1.1.1a=Añadidas nuevas funciones para los servidores de descarga.]
 
 [v1.0.9-title=Versión 1.0.9.125]
 [v1.0.9-date=23 Dic. 2018]
