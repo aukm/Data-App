@@ -43,7 +43,7 @@
 [ppAboutApp=WhatsaMods v]
 [ppAboutBuild=Aplicación realizada por:]
 [ppAboutDev=Krowne]
-[ppAboutCR=Desarrollo 2018]
+[ppAboutCR=Desarrollo 2018 - 2019]
 
 
 // Descargas de Mods
@@ -89,6 +89,10 @@
 [about=Acerca de..]
 
 // Changelog
+[v1.1.0-title=Versión 1.1.0.125]
+[v1.1.0-date=04 Ene. 2019]
+[v1.1.0a=Mejorado el código de las descargas, ahora puedes repetir la descarga si se realiza mal.]
+
 [v1.0.9-title=Versión 1.0.9.125]
 [v1.0.9-date=23 Dic. 2018]
 [v1.0.9a=Mejorado el código de las descargas, ahora puedes repetir la descarga si se realiza mal.]
