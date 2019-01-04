@@ -23,7 +23,7 @@
 [no_internet=Necesita conexión a Internet para poder usar la aplicación.]
 [PstMsg=Para un correcto funcionamiento de la aplicación, debes conceder permisos para escribir en la tarjeta de memoria.]
 [update=Se ha detectado una actualización de la aplicación. Para poder abrir la aplicación, es necesario actualizarla.\n\n ¿Desea comenzar la actualización?]
-[errorDownload=Se ha producido un error en la descarga.<br><br>¿Deseas reiniciar la descarga?]
+[errorDownload=Se ha producido un error en la descarga. Posiblemente el servidor de descarga esté fallando.<br><br>¿Deseas reiniciar la descarga?]
 [secondDown=Has cancelado el reinicio de la descarga. ¿Quieres descargar la aplicación desde el navegador?]
 [btnAccept=Aceptar]
 [btnCancel=Cancelar]
