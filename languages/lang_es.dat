@@ -10,8 +10,8 @@
 
 // ZippyShare
 [zsValue=document.getElementById('dlbutton').href = "]
-[zsValue2= +]
-[zsValue3="/]
+[zsValue2=" +]
+[zsValue3=+ "]
 [zsValue4=";]
 
 // Menu
