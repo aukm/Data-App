@@ -14,7 +14,7 @@
 [zsPos3=3]
 [zsPos4=4]
 [zsValue=document.getElementById('dlbutton').href = "]
-[zsValue2= +]
+[zsValue2="+]
 [zsValue3="/]
 [zsValue4=";]
 
