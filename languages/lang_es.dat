@@ -9,7 +9,7 @@
 [schPos3=">]
 
 // ZippyShare
-[zsValues1=1,2,3,4]
+[zsValues1=a(),1,b(),2,c(),3,d,4]
 [zsValues2=document.getElementById('dlbutton').href = ","+,+",";]
 
 [zsPos1=1]
