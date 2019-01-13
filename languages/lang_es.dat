@@ -13,6 +13,7 @@
 [zsPos2=2]
 [zsPos3=3]
 [zsPos4=4]
+[zsValues2=document.getElementById('dlbutton').href = ","+,+",";]
 [zsValue=document.getElementById('dlbutton').href = "]
 [zsValue2= +]
 [zsValue3="/]
