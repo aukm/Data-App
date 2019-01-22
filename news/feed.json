@@ -1,5 +1,14 @@
 {	"feed": [
 		{
+			"id": 33,
+			"name": "Krowne",
+			"image": "https://softalien.co/wp-content/uploads/2018/08/GBWhatsApp-APK.jpg",
+			"title": "Actualización de GBWhatsApp v6.70",
+			"status": "Nueva actualización de GBWhatsApp, con la misma base que la v6.65 (2.18.327). La lista de cambios es la siguiente:<br><br>- Ahora puedes añadir Stickers de PlayStore a cualquier paquete.<br>- Añadidas nuevas fuentes.<br>- Se añadieron nuevos iconos de lanzador.<br>- Se añadió una opción para deshabilitar, haga clic en Encabezado para chats ocultos (Mod 6.21).<br>* Ahora puedes ordenar los mensajes enviados por (el más nuevo/el más antiguo).<br>- Se añadió el diálogo de confirmación cuando se llama en chat grupal.<br>- Aumentado el pin de chats de 25 a 30.<br>- Se corrigió el cierre forzado cuando se seleccionaron más de 2 contactos en Auto responder/Programador de mensajes.<br>- Se corrigió el cambio del idioma de la aplicación en Android Oreo y Pie.<br>- Se corrigió la visualización de mensajes enviados, cuando se hacía clic en más contactos en el perfil del grupo.<br>- Muchos más arreglos.",
+			"timeStamp": "22-01-2019 15:11",
+			"url": ""
+		},
+		{
 			"id": 32,
 			"name": "theFULL",
 			"image": "",
