@@ -91,11 +91,14 @@
 [about=Acerca de..]
 
 // Changelog
+[v1.1.3-title=Versión 1.1.3.25]
+[v1.1.3-date=23 Ene. 2019]
+[v1.1.3a=Corrección de errores.]
+
 [v1.1.2-title=Versión 1.1.2.87]
 [v1.1.2-date=13 Ene. 2019]
 [v1.1.2a=Rectificado el código de las descargas.]
 
-// Changelog
 [v1.1.1-title=Versión 1.1.1.1]
 [v1.1.1-date=04 Ene. 2019]
 [v1.1.1a=Añadidas nuevas funciones para los servidores de descarga.]
