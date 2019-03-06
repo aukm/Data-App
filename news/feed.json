@@ -1,5 +1,14 @@
 {	"feed": [
 		{
+			"id": 34,
+			"name": "Krowne",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL1Nln1Q1MwRgxJRYYs2Fe_NYCnulnRzPYANLMwPxd8RuXKrJfAQ",
+			"title": "Actualización de YoWhatsApp v7.90 Fix",
+			"status": "Actualización de YoWhatsApp 7.90, con corrección de errores de la versión publicada hace unos días, disponible en la sección de descargas. Esta es la lista de cambios:<br><br>• [Actualización base] 2.19.34<br>• [Exclusivo] Conozca el estado eliminado (🚫 al lado de la hora)!<br>• [Exclusivo] Toast en línea personalizado! Habilitar para personas específicas (búsquelo en Perfil de contacto).<br>• [Solucionado] Opción para anclar la descripción del grupo al chat (Menú de chat de 3 puntos> Descripción del grupo).<br>• [Solucionado] Cambiar el color del icono de mensaje borrado (Opción 3.1.17).<br>• [Solucionado] Soporte para descargar temas con fondo de pantalla de inicio de la tienda de YoThemes.<br>• [Solucionado] Problemas del botón de ahorro de estado .<br>• [Solucionado] Estado incorrecto guardando historia.<br>• [Solucionado] La privacidad de las llamadas no guarda la lista elegida.<br>• [Solucionado] Las imágenes en el interior del chat no funcionan correctamente.<br>• [Solucionado] Fallos aleatorios en la conversación.<br>• [Solucionado] Aleatorio Android O + emoji se bloquea.<br>• [ALERTA] Eliminación previa de mensajes y estado de forma predeterminada (desactívelo si lo desea).<br>• [Misc] Más correcciones de errores y mejoras!<br>",
+			"timeStamp": "06-03-2019 17:15",
+			"url": ""
+		},
+		{
 			"id": 33,
 			"name": "Krowne",
 			"image": "https://softalien.co/wp-content/uploads/2018/08/GBWhatsApp-APK.jpg",
