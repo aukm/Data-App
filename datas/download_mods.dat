@@ -108,13 +108,13 @@
 	//*********** YOWHATSAPP PLUS CON EMOJIS ***********
 	
 	[<Category><yowhatsappplusC>]
-	[<DonwloadMod><1><albasha-yowhatsappplus><0>	<Al-Basha><7.90 Fix><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/yo/7.90-wa.apk><1>]
+	[<DonwloadMod><1><albasha-yowhatsappplus><0>	<Al-Basha><7.95><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/yo/7.95-wa.apk><1>]
 }
 {
 	//*********** YOWHATSAPP PLUS SIN EMOJIS ***********
 	
 	[<Category><yowhatsappplus>]
-	[<DonwloadMod><1><albasha-yowhatsappplus><0>	<Al-Basha><7.90 Fix><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/yo/7.90-wa-sin.apk><1>]
+	[<DonwloadMod><1><albasha-yowhatsappplus><0>	<Al-Basha><7.95><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/yo/7.95-wa-sin.apk><1>]
 	[<DonwloadMod><1><thefull-yowhatsappplus><0>	<TheFULL><7.90 Fix><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/7.90-wa-sin-thefull.apk><1>]
 }
 
@@ -124,13 +124,13 @@
 	//*********** YOWHATSAPP CON EMOJIS ***********
 	
 	[<Category><yowhatsappC>]
-	[<DonwloadMod><1><albasha-yowhatsapp><0>		<Al-Basha><7.90 Fix><com.yowhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/yo/7.90-yowa.apk><1>]
+	[<DonwloadMod><1><albasha-yowhatsapp><0>		<Al-Basha><7.95><com.yowhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/yo/7.95-yowa.apk><1>]
 }
 {
 	//*********** YOWHATSAPP SIN EMOJIS ***********
 	
 	[<Category><yowhatsapp>]
-	[<DonwloadMod><1><albasha-yowhatsapp><0>		<Al-Basha><7.90 Fix><com.yowhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/yo/7.90-yowa-sin.apk><1>]
+	[<DonwloadMod><1><albasha-yowhatsapp><0>		<Al-Basha><7.95><com.yowhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/yo/7.95-yowa-sin.apk><1>]
 	[<DonwloadMod><1><thefull-yowhatsapp><0>		<TheFULL><7.90 Fix><com.yowhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/7.90-yowa-sin-thefull.apk><1>]
 }
 
@@ -140,12 +140,12 @@
 	//*********** YOWHATSAPP2 CON EMOJIS ***********
 	
 	[<Category><yowhatsapp2C>]
-	[<DonwloadMod><1><albasha-yowhatsapp2><0>		<Al-Basha><7.90 Fix><com.yowhatsapp2><all><https://github.com/WhatsaMods/TheFiles/raw/master/yo/7.90-yowa2.apk><1>]
+	[<DonwloadMod><1><albasha-yowhatsapp2><0>		<Al-Basha><7.95><com.yowhatsapp2><all><https://github.com/WhatsaMods/TheFiles/raw/master/yo/7.95-yowa2.apk><1>]
 }
 {
 	//*********** YOWHATSAPP2 SIN EMOJIS ***********
 	
 	[<Category><yowhatsapp2>]
-	[<DonwloadMod><1><albasha-yowhatsapp2><0>		<Al-Basha><7.90 Fix><com.yowhatsapp2><all><https://github.com/WhatsaMods/TheFiles/raw/master/yo/7.90-yowa2-sin.apk><1>]
+	[<DonwloadMod><1><albasha-yowhatsapp2><0>		<Al-Basha><7.95><com.yowhatsapp2><all><https://github.com/WhatsaMods/TheFiles/raw/master/yo/7.95-yowa2-sin.apk><1>]
 	[<DonwloadMod><1><thefull-yowhatsapp2><0>		<TheFULL><7.90 Fix><com.yowhatsapp2><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/7.90-yowa2-sin-thefull.apk><1>]
 }
