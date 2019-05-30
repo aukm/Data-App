@@ -5,101 +5,59 @@
 	// VERSIONES ARM
 	[<Category><gbwhatsappplus>]
 	[<DonwloadMod><1><omar-gbwhatsappplus><0>		<Omar><6.95><com.whatsapp><arm><https://github.com/WhatsaMods/TheFiles/raw/master/gb/arm-6.95-plus.apk><1>]
-	[<DonwloadMod><0><gonga-gbwhatsappplus><0>		<Gonga><6.70><com.whatsapp><arm><https://github.com/WhatsaMods/TheFiles/raw/master/gonga/gonga-arm-6.70-plus.apk><1>]
-	[<DonwloadMod><0><padillaaka-gbwhatsappplus><0>	<padillaaka><6.85><com.whatsapp><arm><https://github.com/padillaaka/TheFiles/raw/master/padillaaka/GBWAPlusv6.85_armeabi-v7a_%40padillaaka.apk><1>]
-	[<DonwloadMod><0><osjakvd-gbwhatsappplus><0>	<OsjakvD><6.65><com.whatsapp><arm><https://github.com/WhatsaMods/TheFiles/raw/master/oskar/oskar-6.65-arm-plus.apk><1>]
-	[<DonwloadMod><0><thefull-gbwhatsappplus><0>	<TheFULL><6.55><com.whatsapp><arm><http://www.mediafire.com/file/8afpb87bg5hiydb/TheFULL_GBWA0_6.55-2.18.203arm7a.apk><1>]
+	[<DonwloadMod><0><omar-gbwhatsappplus><0>		<WhatsaMods><6.95><com.whatsapp><arm><https://github.com/WhatsaMods/TheFiles/raw/master/wmods/arm-6.95-plus.apk><1>]
 
 	// VERSIONES ARM64
 	[<DonwloadMod><1><omar-gbwhatsappplus><0>		<Omar><6.95><com.whatsapp><arm64><https://github.com/WhatsaMods/TheFiles/raw/master/gb/arm64-6.95-plus.apk><1>]
-	[<DonwloadMod><0><gonga-gbwhatsappplus><0>		<Gonga><6.70><com.whatsapp><arm64><https://github.com/WhatsaMods/TheFiles/raw/master/gonga/gonga-arm64-6.70-plus.apk><1>]
-	[<DonwloadMod><0><padillaaka-gbwhatsappplus><0>	<padillaaka><6.85><com.whatsapp><arm64><https://github.com/padillaaka/TheFiles/raw/master/padillaaka/GBWAPlusv6.85_arm64-v8a_%40padillaaka.apk><1>]
-	[<DonwloadMod><0><osjakvd-gbwhatsappplus><0>	<OsjakvD><6.65><com.whatsapp><arm64><https://github.com/WhatsaMods/TheFiles/raw/master/oskar/oskar-6.65-amr64-plus.apk><1>]
-	[<DonwloadMod><0><thefull-gbwhatsappplus><0>	<TheFULL><6.55><com.whatsapp><arm64><http://www.mediafire.com/file/ix4e1612egrm72s/TheFULL_GBWA0_6.55-2.18.203arm64.apk><1>]
+	[<DonwloadMod><0><omar-gbwhatsappplus><0>		<WhatsaMods><6.95><com.whatsapp><arm64><https://github.com/WhatsaMods/TheFiles/raw/master/wmods/arm64-6.95-plus.apk><1>]
 
 	// VERSIONES X86
 	[<DonwloadMod><1><omar-gbwhatsappplus><0>		<Omar><6.95><com.whatsapp><x86><https://github.com/WhatsaMods/TheFiles/raw/master/gb/x86-6.95-plus.apk><1>]
-	[<DonwloadMod><0><gonga-gbwhatsappplus><0>		<Gonga><6.70><com.whatsapp><x86><https://github.com/WhatsaMods/TheFiles/raw/master/gonga/gonga-x86-64-6.70-plus.apk><1>]
-	[<DonwloadMod><0><padillaaka-gbwhatsappplus><0>	<padillaaka><6.85><com.whatsapp><x86><https://github.com/padillaaka/TheFiles/raw/master/padillaaka/GBWAPlusv6.85_x86_%40padillaaka.apk><1>]
-	[<DonwloadMod><0><osjakvd-gbwhatsappplus><0>	<OsjakvD><6.65><com.whatsapp><x86><https://github.com/WhatsaMods/TheFiles/raw/master/oskar/oskar-6.65-x86-64-plus.apk><1>]
-	[<DonwloadMod><0><thefull-gbwhatsappplus><0>	<TheFULL><6.55><com.whatsapp><x86><http://www.mediafire.com/file/szue9bg0kv7uwwc/TheFULL_GBWA0_6.55-2.18.203x86.apk><1>]
+	[<DonwloadMod><0><omar-gbwhatsappplus><0>		<WhatsaMods><6.95><com.whatsapp><x86><https://github.com/WhatsaMods/TheFiles/raw/master/wmods/x86-6.95-plus.apk><1>]
 
 	// VERSIONES X86_64
 	[<DonwloadMod><1><omar-gbwhatsappplus><0>		<Omar><6.95><com.whatsapp><x86_64><https://github.com/WhatsaMods/TheFiles/raw/master/gb/x86-6.95-plus.apk><1>]
-	[<DonwloadMod><0><gonga-gbwhatsappplus><0>		<Gonga><6.70><com.whatsapp><x86_64><https://github.com/WhatsaMods/TheFiles/raw/master/gonga/gonga-x86-64-6.70-plus.apk><1>]
-	[<DonwloadMod><0><padillaaka-gbwhatsappplus><0>	<padillaaka><6.85><com.whatsapp><x86_64><https://github.com/padillaaka/TheFiles/raw/master/padillaaka/GBWAPlusv6.85_x86_%40padillaaka.apk><1>]
-	[<DonwloadMod><0><osjakvd-gbwhatsappplus><0>	<OsjakvD><6.65><com.whatsapp><x86_64><https://github.com/WhatsaMods/TheFiles/raw/master/oskar/oskar-6.65-x86-64-plus.apk><1>]
-	[<DonwloadMod><0><thefull-gbwhatsappplus><0>	<TheFULL><6.55><com.whatsapp><x86_64><http://www.mediafire.com/file/9cpbfciaofv893g/TheFULL_GBWA0_6.55-2.18.203x86-64.apk><1>]
+	[<DonwloadMod><0><omar-gbwhatsappplus><0>		<WhatsaMods><6.95><com.whatsapp><x86_64><https://github.com/WhatsaMods/TheFiles/raw/master/wmods/x86-6.95-plus.apk><1>]
 }
-
-
-
 {
 	//*********** GBWHATSAPP ***********
 
 	// VERSIONES ARM
 	[<Category><gbwhatsapp>]
 	[<DonwloadMod><1><omar-gbwhatsapp><0>			<Omar><6.95><com.gbwhatsapp><arm><https://github.com/WhatsaMods/TheFiles/raw/master/gb/arm-6.95-gb.apk><1>]
-	[<DonwloadMod><0><gonga-gbwhatsapp><0>			<Gonga><6.70><com.gbwhatsapp><arm><https://github.com/WhatsaMods/TheFiles/raw/master/gonga/gonga-arm-6.70-gb.apk><1>]
-	[<DonwloadMod><0><padillaaka-gbwhatsapp><0>		<padillaaka><6.85><com.gbwhatsapp><arm><https://github.com/padillaaka/TheFiles/raw/master/padillaaka/GBWAv6.85_armeabi-v7a_%40padillaaka.apk><1>]
-	[<DonwloadMod><0><osjakvd-gbwhatsapp><0>		<OsjakvD><6.65><com.gbwhatsapp><arm><https://github.com/WhatsaMods/TheFiles/raw/master/oskar/oskar-6.65-arm-gb.apk><1>]
-	[<DonwloadMod><0><thefull-gbwhatsapp><0>		<TheFULL><6.55><com.gbwhatsapp><arm><http://www.mediafire.com/file/aflfdm2wac7ul62/TheFULL_GBWA1_6.55-2.18.203arm7a.apk><1>]
+	[<DonwloadMod><0><omar-gbwhatsapp><0>			<WhatsaMods><6.95><com.gbwhatsapp><arm><https://github.com/WhatsaMods/TheFiles/raw/master/wmods/arm-6.95-gb.apk><1>]
 
 	// VERSIONES ARM64
 	[<DonwloadMod><1><omar-gbwhatsapp><0>			<Omar><6.95><com.gbwhatsapp><arm64><https://github.com/WhatsaMods/TheFiles/raw/master/gb/arm64-6.95-gb.apk><1>]
-	[<DonwloadMod><0><gonga-gbwhatsapp><0>			<Gonga><6.70><com.gbwhatsapp><arm64><https://github.com/WhatsaMods/TheFiles/raw/master/gonga/gonga-arm64-6.70-gb.apk><1>]
-	[<DonwloadMod><0><padillaaka-gbwhatsapp><0>		<padillaaka><6.85><com.gbwhatsapp><arm64><https://github.com/padillaaka/TheFiles/raw/master/padillaaka/GBWAv6.85_arm64-v8a_%40padillaaka.apk><1>]
-	[<DonwloadMod><0><osjakvd-gbwhatsapp><0>		<OsjakvD><6.65><com.gbwhatsapp><arm64><https://github.com/WhatsaMods/TheFiles/raw/master/oskar/oskar-6.65-arm64-gb.apk><1>]
-	[<DonwloadMod><0><thefull-gbwhatsapp><0>		<TheFULL><6.55><com.gbwhatsapp><arm64><http://www.mediafire.com/file/l6udw912bebi3qm/TheFULL_GBWA1_6.55-2.18.203arm64.apk><1>]
+	[<DonwloadMod><0><omar-gbwhatsapp><0>			<WhatsaMods><6.95><com.gbwhatsapp><arm64><https://github.com/WhatsaMods/TheFiles/raw/master/wmods/arm64-6.95-gb.apk><1>]
 
 	// VERSIONES X86
-	[<DonwloadMod><0><omar-gbwhatsapp><0>			<Omar><6.95><com.gbwhatsapp><x86><https://github.com/WhatsaMods/TheFiles/raw/master/gb/x86-6.95-gb.apk><1>]
-	[<DonwloadMod><0><gonga-gbwhatsapp><0>			<Gonga><6.70><com.gbwhatsapp><x86><https://github.com/WhatsaMods/TheFiles/raw/master/gonga/gonga-x86-64-6.70-gb.apk><1>]
-	[<DonwloadMod><0><padillaaka-gbwhatsapp><0>		<padillaaka><6.85><com.gbwhatsapp><x86><https://github.com/padillaaka/TheFiles/raw/master/padillaaka/GBWAv6.85_x86_%40padillaaka.apk><1>]
-	[<DonwloadMod><0><osjakvd-gbwhatsapp><0>		<OsjakvD><6.55><com.gbwhatsapp><x86><https://github.com/WhatsaMods/TheFiles/raw/master/oskar/oskar-6.65-x86-64-gb.apk><1>]
-	[<DonwloadMod><0><thefull-gbwhatsapp><0>		<TheFULL><6.55><com.gbwhatsapp><x86><http://www.mediafire.com/file/ldfh8pmqooype2f/TheFULL_GBWA1_6.55-2.18.203x86.apk><1>]
+	[<DonwloadMod><1><omar-gbwhatsapp><0>			<Omar><6.95><com.gbwhatsapp><x86><https://github.com/WhatsaMods/TheFiles/raw/master/gb/x86-6.95-gb.apk><1>]
+	[<DonwloadMod><0><omar-gbwhatsapp><0>			<WhatsaMods><6.95><com.gbwhatsapp><x86><https://github.com/WhatsaMods/TheFiles/raw/master/wmods/x86-6.95-gb.apk><1>]
 
 	// VERSIONES X86_64
 	[<DonwloadMod><1><omar-gbwhatsapp><0>			<Omar><6.95><com.gbwhatsapp><x86_64><https://github.com/WhatsaMods/TheFiles/raw/master/gb/x86-6.95-gb.apk><1>]
-	[<DonwloadMod><0><gonga-gbwhatsapp><0>			<Gonga><6.70><com.gbwhatsapp><x86_64><https://github.com/WhatsaMods/TheFiles/raw/master/gonga/gonga-x86-64-6.70-gb.apk><1>]
-	[<DonwloadMod><0><padillaaka-gbwhatsapp><0>		<padillaaka><6.85><com.gbwhatsapp><x86_64><https://github.com/padillaaka/TheFiles/raw/master/padillaaka/GBWAv6.85_x86_%40padillaaka.apk><1>]
-	[<DonwloadMod><0><osjakvd-gbwhatsapp><0>		<OsjakvD><6.65><com.gbwhatsapp><x86_64><https://github.com/WhatsaMods/TheFiles/raw/master/oskar/oskar-6.65-x86-64-gb.apk><1>]
-	[<DonwloadMod><0><thefull-gbwhatsapp><0>		<TheFULL><6.55><com.gbwhatsapp><x86_64><http://www.mediafire.com/file/e97gs90hf940i4h/TheFULL_GBWA1_6.55-2.18.203x86-64.apk><1>]
+	[<DonwloadMod><0><omar-gbwhatsapp><0>			<WhatsaMods><6.95><com.gbwhatsapp><x86_64><https://github.com/WhatsaMods/TheFiles/raw/master/wmods/x86-6.95-gb.apk><1>]
 }
-
-
-
 {
 	//*********** GBWHATSAPP3 ***********
 
 	// VERSIONES ARM
 	[<Category><gbwhatsapp3>]
 	[<DonwloadMod><1><omar-gbwhatsapp3><0>			<Omar><6.95><com.gbwhatsapp3><arm><https://github.com/WhatsaMods/TheFiles/raw/master/gb/arm-6.95-gb3.apk><1>]
-	[<DonwloadMod><0><gonga-gbwhatsapp3><0>			<Gonga><6.70><com.gbwhatsapp3><arm><https://github.com/WhatsaMods/TheFiles/raw/master/gonga/gonga-arm-6.70-gb3.apk><1>]
-	[<DonwloadMod><0><padillaaka-gbwhatsapp3><0>	<padillaaka><6.85><com.gbwhatsapp3><arm><https://github.com/padillaaka/TheFiles/raw/master/padillaaka/GBWA3v6.85_armeabi-v7a_%40padillaaka.apk><1>]
-	[<DonwloadMod><0><thefull-gbwhatsapp3><0>		<TheFULL><6.55><com.gbwhatsapp3><arm><http://www.mediafire.com/file/a78ek25gbgua72c/TheFULL_GBWA2_6.55-2.18.203arm7a.apk><1>]
-	[<DonwloadMod><0><osjakvd-gbwhatsapp3><0>		<OsjakvD><6.55><com.gbwhatsapp3><arm><https://www.mediafire.com/file/kr4yoobbvb6a2f3/ClGBWA3v6.55armeabi-v7a.apk><1>]
+	[<DonwloadMod><0><omar-gbwhatsapp3><0>			<WhatsaMods><6.95><com.gbwhatsapp3><arm><https://github.com/WhatsaMods/TheFiles/raw/master/wmods/arm-6.95-gb3.apk><1>]
 
 	// VERSIONES ARM64
 	[<DonwloadMod><1><omar-gbwhatsapp3><0>			<Omar><6.95><com.gbwhatsapp3><arm64><https://github.com/WhatsaMods/TheFiles/raw/master/gb/arm64-6.95-gb3.apk><1>]
-	[<DonwloadMod><0><gonga-gbwhatsapp3><0>			<Gonga><6.70><com.gbwhatsapp3><arm64><https://github.com/WhatsaMods/TheFiles/raw/master/gonga/gonga-arm64-6.70-gb3.apk><1>]
-	[<DonwloadMod><0><padillaaka-gbwhatsapp3><0>	<padillaaka><6.85><com.gbwhatsapp3><arm64><https://github.com/padillaaka/TheFiles/raw/master/padillaaka/GBWA3v6.85_arm64-v8a_%40padillaaka.apk><1>]
-	[<DonwloadMod><0><thefull-gbwhatsapp3><0>		<TheFULL><6.55><com.gbwhatsapp3><arm64><http://www.mediafire.com/file/q0h4z92s38vzj4f/TheFULL_GBWA2_6.55-2.18.203arm64.apk><1>]
-	[<DonwloadMod><0><osjakvd-gbwhatsapp3><0>		<OsjakvD><6.55><com.gbwhatsapp3><arm64><https://www.mediafire.com/file/rqmc59ia2pj3h5e/ClGBWA3v6.55arm64-v8a.apk><1>]
+	[<DonwloadMod><0><omar-gbwhatsapp3><0>			<WhatsaMods><6.95><com.gbwhatsapp3><arm64><https://github.com/WhatsaMods/TheFiles/raw/master/wmods/arm64-6.95-gb3.apk><1>]
 
 	// VERSIONES X86
 	[<DonwloadMod><1><omar-gbwhatsapp3><0>			<Omar><6.95><com.gbwhatsapp3><x86><https://github.com/WhatsaMods/TheFiles/raw/master/gb/x86-6.95-gb3.apk><1>]
-	[<DonwloadMod><0><gonga-gbwhatsapp3><0>			<Gonga><6.70><com.gbwhatsapp3><x86><https://github.com/WhatsaMods/TheFiles/raw/master/gonga/gonga-x86-64-6.70-gb3.apk><1>]
-	[<DonwloadMod><0><padillaaka-gbwhatsapp3><0>	<padillaaka><6.85><com.gbwhatsapp3><x86><https://github.com/padillaaka/TheFiles/raw/master/padillaaka/GBWA3v6.85_x86_%40padillaaka.apk><1>]
-	[<DonwloadMod><0><thefull-gbwhatsapp3><0>		<TheFULL><6.55><com.gbwhatsapp3><x86><http://www.mediafire.com/file/4i0s263qb3ct5ao/TheFULL_GBWA2_6.55-2.18.203x86.apk><1>]
-	[<DonwloadMod><0><osjakvd-gbwhatsapp3><0>		<OsjakvD><6.55><com.gbwhatsapp3><x86><https://www.mediafire.com/file/4fu6k8brfxkrfnn/ClGBWA3v6.55x86.apk><1>]
+	[<DonwloadMod><0><omar-gbwhatsapp3><0>			<WhatsaMods><6.95><com.gbwhatsapp3><x86><https://github.com/WhatsaMods/TheFiles/raw/master/wmods/x86-6.95-gb3.apk><1>]
 
 	// VERSIONES X86_64
 	[<DonwloadMod><1><omar-gbwhatsapp3><0>			<Omar><6.95><com.gbwhatsapp3><x86_64><https://github.com/WhatsaMods/TheFiles/raw/master/gb/x86-6.95-gb3.apk><1>]
-	[<DonwloadMod><0><gonga-gbwhatsapp3><0>			<Gonga><6.70><com.gbwhatsapp3><x86_64><https://github.com/WhatsaMods/TheFiles/raw/master/gonga/gonga-x86-64-6.70-gb3.apk><1>]
-	[<DonwloadMod><0><padillaaka-gbwhatsapp3><0>	<padillaaka><6.85><com.gbwhatsapp3><x86_64><https://github.com/padillaaka/TheFiles/raw/master/padillaaka/GBWA3v6.85_x86_%40padillaaka.apk><1>]
-	[<DonwloadMod><0><thefull-gbwhatsapp3><0>		<TheFULL><6.55><com.gbwhatsapp3><x86_64><http://www.mediafire.com/file/ruyilw7j5wy7ski/TheFULL_GBWA2_6.55-2.18.203x86-64.apk><1>]
-	[<DonwloadMod><0><osjakvd-gbwhatsapp3><0>		<OsjakvD><6.55><com.gbwhatsapp3><x86_64><https://www.mediafire.com/file/5xo59txlioyt1w6/ClGBWA3v6.55x86_64.apk><1>]
+	[<DonwloadMod><0><omar-gbwhatsapp3><0>			<WhatsaMods><6.95><com.gbwhatsapp3><x86_64><https://github.com/WhatsaMods/TheFiles/raw/master/wmods/x86-6.95-gb3.apk><1>]
 }
 
 
