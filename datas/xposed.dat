@@ -40,19 +40,6 @@
 {
 	[
 		<Category>
-		<xposed_hid_lcn_tt1>
-	]
-	[
-		<Switch>
-		<xposed_hid_lcn_tt1>
-		<xposed_hid_lcn_st1>
-		<xps_hid_lcn>
-		<0>
-	]
-}
-{
-	[
-		<Category>
 		<xposed_toast_cat>
 	]
 	[
