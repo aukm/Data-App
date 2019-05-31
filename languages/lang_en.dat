@@ -73,6 +73,10 @@
 [about=About..]
 
 // Changelog
+[v1.1.5-title=Versión 1.1.5.253]
+[v1.1.5-date=2 Jun. 2019]
+[v1.1.5a=Fixed the problem in the Downloads section, now they should download correctly.]
+
 [v1.1.4-title=Version 1.1.4.0]
 [v1.1.4-date=24 Apr. 2019]
 [v1.1.4a=Added support for English language.]
