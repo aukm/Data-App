@@ -20,6 +20,7 @@
 [update=Update detected. Update is required to open the application.\n\n Would you like to start the update process?]
 [errorDownload=Downloading error encountered.<br><br>You can restart the download clicking on the Accept button, or download via a web browser.]
 [btnAccept=Accept]
+[btnResset=Reiniciar]
 [btnWeb=Web]
 [btnCancel=Cancel]
 
