@@ -41,9 +41,11 @@
 [yowhatsappplusC=YoWhatsApp Plus (Con Emojis)]
 [yowhatsappC=YoWhatsApp (Con Emojis)]
 [yowhatsapp2C=YoWhatsApp2 (Con Emojis)]
+[yowhatsappGBC=YoWhatsApp GB (Con Emojis)]
 [yowhatsappplus=YoWhatsApp Plus (Sin Emojis)]
 [yowhatsapp=YoWhatsApp (Sin Emojis)]
 [yowhatsapp2=YoWhatsApp2 (Sin Emojis)]
+[yowhatsappGB=YoWhatsApp GB (Sin Emojis)]
 
 // Settings
 [settings_cat_pers=Personalización]
