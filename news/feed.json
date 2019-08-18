@@ -1,5 +1,14 @@
 {	"feed": [
 		{
+			"id": 22,
+			"name": "WhatsaMods",
+			"image": "",
+			"title": "¡Estrenamos Mod en la Aplicación!",
+			"status": "Como muchos sabéis, GBWhatsApp paró su desarrollo, y se quedó solo YoWhatsApp en la Aplicación.<br><br>Pues por petición de muchos de vosotros, y después de meditarlo, hemos decidido añadir el Mod NoWhatsApp también a la aplicación.<br><br>A su vez, con la incorporación de este Mod y la descontinuación de los paquetes de GBWhatsApp, hemos quitado toda relación con GBWhatsApp de la aplicación.<br><br>Para descargar el Mod NoWhatsApp, podéis acudir a la sección de descargas.",
+			"timeStamp": "18-08-2019 23:25",
+			"url": ""
+		},
+		{
 			"id": 21,
 			"name": "Krowne",
 			"image": "",
