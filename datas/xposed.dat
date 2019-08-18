@@ -14,32 +14,6 @@
 {
 	[
 		<Category>
-		<xposed_publi_cat>
-	]
-	[
-		<Switch>
-		<xposed_quit_pub_tt1>
-		<xposed_quit_pub_st1>
-		<xps_quit_pub>
-		<0>
-	]
-}
-{
-	[
-		<Category>
-		<xposed_tradu_cat>
-	]
-	[
-		<Switch>
-		<xposed_tr_gb_tt1>
-		<xposed_tr_gb_st1>
-		<xps_tr_gb>
-		<0>
-	]
-}
-{
-	[
-		<Category>
 		<xposed_toast_cat>
 	]
 	[
