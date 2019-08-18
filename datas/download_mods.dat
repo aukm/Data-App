@@ -1,4 +1,37 @@
 0 = false, 1 = true
+
+{	
+	//*********** NOWHATSAPP PLUS ***********
+	
+	[<Category><nowhatsappplus>]
+	[<DonwloadMod><1><nowhatsapp><0>		<Abo Omar><9.61><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/no/9.61-wa.apk><1>]
+}
+{
+	//*********** NOWHATSAPP ***********
+	
+	[<Category><nowhatsapp>]
+	[<DonwloadMod><1><nowhatsapp><0>		<Abo Omar><9.61><com.yowhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/no/9.61-nowa.apk><1>]
+}
+{
+	//*********** NOWHATSAPP2 ***********
+	
+	[<Category><nowhatsapp2>]
+	[<DonwloadMod><1><nowhatsapp><0>		<Abo Omar><9.61><com.yowhatsapp2><all><https://github.com/WhatsaMods/TheFiles/raw/master/no/9.61-nowa2.apk><1>]
+}
+{
+	//*********** NOWHATSAPP3 ***********
+	
+	[<Category><nowhatsapp3>]
+	[<DonwloadMod><1><nowhatsapp><0>		<Abo Omar><9.61><com.gbwhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/no/9.61-nowa3.apk><1>]
+}
+
+
+
+
+
+
+
+
 {	
 	//*********** YOWHATSAPP PLUS CON EMOJIS ***********
 	
@@ -45,16 +78,3 @@
 	[<DonwloadMod><0><thefull-yowhatsapp2><0>		<TheFULL><7.90><com.yowhatsapp2><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/yo/7.90-yowa2-sin.apk><1>]
 }
 
-
-{
-	//*********** YOWHATSAPP GB CON EMOJIS ***********
-	
-	[<Category><yowhatsappGBC>]
-	[<DonwloadMod><1><albasha-yowhatsapp2><0>		<Al-Basha><7.99><com.gbwhatsapp><all><https://github.com/WhatsaMods/TheFiles/blob/master/yo/7.99-gbwa.apk><1>]
-}
-{
-	//*********** YOWHATSAPP2 SIN EMOJIS ***********
-	
-	[<Category><yowhatsappGB>]
-	[<DonwloadMod><1><albasha-yowhatsapp2><0>		<Al-Basha><7.99><com.gbwhatsapp><all><https://github.com/WhatsaMods/TheFiles/blob/master/yo/7.99-gbwa-sin.apk><1>]
-}
