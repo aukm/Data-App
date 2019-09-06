@@ -14,8 +14,8 @@
 
 // Sección de descarga de Mods
 {
-	[data1=1.1.5.16] // Valor de actualización
-	[strc=1.0.4] // Valor de la versión de WhatsaMods
+	[data1=1.1.5.17] // Valor de actualización
+	[strc=1.0.5] // Valor de la versión de WhatsaMods
 	[url=datas/download_mods.dat]
 }
 // Sección Xposed
