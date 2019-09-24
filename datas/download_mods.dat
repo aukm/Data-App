@@ -5,13 +5,14 @@
 	
 	[<Category><yowhatsappplusC>]
 	[<DonwloadMod><1><albasha-yowhatsappplus><0>	<Yousef Al-Basha><8.00><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/yo/8.00-wa.apk><1>]
+	[<DonwloadMod><1><thefull-yowhatsappplus><0>	<TheFULL><8.00><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/8.00-wa.apk><1>]
 }
 {
 	//*********** YOWHATSAPP PLUS SIN EMOJIS ***********
 	
 	[<Category><yowhatsappplus>]
 	[<DonwloadMod><1><albasha-yowhatsappplus><0>	<Yousef Al-Basha><8.00><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/yo/8.00-wa-sin.apk><1>]
-	[<DonwloadMod><0><thefull-yowhatsappplus><0>	<TheFULL><7.90><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/yo/7.90-wa-sin.apk><1>]
+	[<DonwloadMod><1><thefull-yowhatsappplus><0>	<TheFULL><8.00><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/8.00-wa-sin.apk><1>]
 }
 
 
@@ -21,13 +22,14 @@
 	
 	[<Category><yowhatsappC>]
 	[<DonwloadMod><1><albasha-yowhatsapp><0>		<Yousef Al-Basha><8.00><com.yowhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/yo/8.00-yowa.apk><1>]
+	[<DonwloadMod><1><thefull-yowhatsapp><0>		<TheFULL><8.00><com.yowhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/8.00-yowa.apk><1>]
 }
 {
 	//*********** YOWHATSAPP SIN EMOJIS ***********
 	
 	[<Category><yowhatsapp>]
 	[<DonwloadMod><1><albasha-yowhatsapp><0>		<Yousef Al-Basha><8.00><com.yowhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/yo/8.00-yowa-sin.apk><1>]
-	[<DonwloadMod><0><thefull-yowhatsapp><0>		<TheFULL><7.90><com.yowhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/yo/7.90-yowa-sin.apk><1>]
+	[<DonwloadMod><1><thefull-yowhatsapp><0>		<TheFULL><8.00><com.yowhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/8.00-yowa-sin.apk><1>]
 }
 
 
@@ -37,13 +39,14 @@
 	
 	[<Category><yowhatsapp2C>]
 	[<DonwloadMod><1><albasha-yowhatsapp2><0>		<Yousef Al-Basha><8.00><com.yowhatsapp2><all><https://github.com/WhatsaMods/TheFiles/raw/master/yo/8.00-yowa2.apk><1>]
+	[<DonwloadMod><1><thefull-yowhatsapp2><0>		<TheFULL><8.00><com.yowhatsapp2><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/8.00-yowa2.apk><1>]
 }
 {
 	//*********** YOWHATSAPP2 SIN EMOJIS ***********
 	
 	[<Category><yowhatsapp2>]
 	[<DonwloadMod><1><albasha-yowhatsapp2><0>		<Yousef Al-Basha><8.00><com.yowhatsapp2><all><https://github.com/WhatsaMods/TheFiles/raw/master/yo/8.00-yowa2-sin.apk><1>]
-	[<DonwloadMod><0><thefull-yowhatsapp2><0>		<TheFULL><7.90><com.yowhatsapp2><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/yo/7.90-yowa2-sin.apk><1>]
+	[<DonwloadMod><1><thefull-yowhatsapp2><0>		<TheFULL><8.00><com.yowhatsapp2><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/yo/8.00-yowa2-sin.apk><1>]
 }
 
 
