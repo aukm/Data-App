@@ -44,5 +44,6 @@
 	//*********** JTWHATSAPP ***********
 	
 	[<Category><fm_jt>]
+	[<DonwloadMod><1><fm-jt]<0>		<TheFULL><8.25><com.jtwhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/8.25-jtwa-sin.apk><1>]
 	[<DonwloadMod><1><fm-jt-c><0>		<TheFULL><8.25><com.jtwhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/8.25-jtwa-con.apk><1>]
 }
