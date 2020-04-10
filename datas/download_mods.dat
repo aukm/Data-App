@@ -18,6 +18,7 @@
 	
 	[<Category><fm_yo>]
 	[<DonwloadMod><1><fm-yo><0>		<WhatsaMods><8.25><com.yowhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/fm/s/fm-v8.25-yo.apk><1>]
+	[<DonwloadMod><1><fm-yo><0>		<TheFULL><8.25><com.yowhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/8.25-yowa-sin.apk><1>]
 	[<DonwloadMod><1><gold><0>		<WhatsaMods><9.0><com.yowhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/gold/gold-v9.0-yo.apk><1>]
 	[<DonwloadMod><1><fm-yo-c><0>	<WhatsaMods><8.25><com.yowhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/fm/c/fm-v8.25-yo.apk><1>]
 }
@@ -26,6 +27,7 @@
 	
 	[<Category><fm_gb>]
 	[<DonwloadMod><1><fm-gb><0>		<WhatsaMods><8.25><com.gbwhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/fm/s/fm-v8.25-gb.apk><1>]
+	[<DonwloadMod><1><fm-gb><0>		<TheFULL><8.25><com.gbwhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/8.25-gbwa-sin.apk><1>]
 	[<DonwloadMod><1><gold><0>		<WhatsaMods><9.0><com.gbwhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/gold/gold-v9.0-gb.apk><1>]
 	[<DonwloadMod><1><fm-gb-c><0>	<WhatsaMods><8.25><com.gbwhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/fm/c/fm-v8.25-gb.apk><1>]
 }
@@ -34,6 +36,13 @@
 	
 	[<Category><fm_fm>]
 	[<DonwloadMod><1><fm-fm><0>		<WhatsaMods><8.25><com.fmwhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/fm/s/fm-v8.25-fm.apk><1>]
+	[<DonwloadMod><1><fm-fm><0>		<TheFULL><8.25><com.fmwhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/8.25-fmwa-sin.apk><1>]
 	[<DonwloadMod><1><gold><0>		<WhatsaMods><9.0><com.fmwhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/gold/gold-v9.0-fm.apk><1>]
 	[<DonwloadMod><1><fm-fm-c><0>	<WhatsaMods><8.25><com.fmwhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/fm/c/fm-v8.25-fm.apk><1>]
+}
+{
+	//*********** JTWHATSAPP ***********
+	
+	[<Category><fm_jt>]
+	[<DonwloadMod><1><fm-jt><0>		<TheFULL><8.25><com.jtwhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/8.25-jtwa-con.apk><1>]
 }
