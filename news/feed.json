@@ -1,5 +1,14 @@
 {	"feed": [
 		{
+			"id": 34,
+			"name": "Krowne",
+			"image": "https://raw.githubusercontent.com/WhatsaMods/Data-App/master/icons/update.jpg",
+			"title": "Actualización.",
+			"status": "Después de un largo tiempo, he actualizado la aplicación para corregir una serie de errores que impedían visualizar correctamente las secciones.<br><br>También se ha eliminado el módulo Xposed de la aplicación, porque actualmente no tenía ninguna función útil, y causaba confusión a algunos usuarios. No obstante, no se descarta que en el futuro se vuelva a activar esta sección con nuevas características.<br><br>También he hecho un pequeño cambio en la sección de Descargas, de forma que ahora se especifica que Mod aparece en cada versión.<br><br>Por último recordaros que ha salido una actualización de uno de los Mods, tenéis la noticia debajo de esta para consultarla.",
+			"timeStamp": "12-05-2020 12:18",
+			"url": ""
+		},
+		{
 			"id": 33,
 			"name": "WhatsaMods",
 			"image": "https://i.imgur.com/8Wm6GQH.jpg",
