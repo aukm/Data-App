@@ -76,6 +76,11 @@
 [about=About..]
 
 // Changelog
+[v1.1.6-title=Versión 1.1.6.35]
+[v1.1.6-date=12 May. 2020]
+[v1.1.6a=Fixed an issue that prevents the app content from being displayed correctly on some devices.]
+[v1.1.6b=Xposed section removed as it currently has no useful options.]
+
 [v1.1.5-title=Versión 1.1.5.253]
 [v1.1.5-date=1 Jun. 2019]
 [v1.1.5a=Fixed the problem in the Downloads section, now they should download correctly.]
