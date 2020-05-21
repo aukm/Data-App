@@ -1,6 +1,19 @@
 0 = false, 1 = true  // El nombre de icono con "-c" es que la versión lleva iconos extras
 
 {	
+	//*********** WHATSAPP SAM ***********
+	
+	[<Category><whats>]
+	[<DonwloadMod><1><icon1><0>		<TheFULL><WhatsApp v2.20.164><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/WhatsApp.apk><1>]
+}
+{	
+	//*********** WHATSAPP GO ***********
+	
+	[<Category><w_go>]
+	[<DonwloadMod><1><icon1><0>		<TheFULL><WhatsApp Go v0.20.50L><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/WhatsAppGO1.apk><1>]
+	[<DonwloadMod><1><icon2><0>		<TheFULL><WhatsApp Go v0.20.50L><com.wago><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/WhatsAppGO2.apk><1>]
+}
+{	
 	//*********** FOUAD WHATSAPP ***********
 	
 	[<Category><fm_fouad>]
