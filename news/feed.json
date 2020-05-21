@@ -1,6 +1,15 @@
 {	"feed": [
 		{
 			"id": 34,
+			"name": "TheFULL",
+			"image": "",
+			"title": "Bueno compis..",
+			"status": "Ya tenéis en la App del grupo mis Re-Mods de WhatsApp GO 1 y 2 (base v2.20.157). Y el WhatsApp (base v2.20.164). Todos con privacidad y modo oscuro, en teoría funcionando las videollamadas a 8.",
+			"timeStamp": "21-05-2020 22:42",
+			"url": ""
+		},
+	        {
+			"id": 34,
 			"name": "Krowne",
 			"image": "https://raw.githubusercontent.com/WhatsaMods/Data-App/master/icons/update.jpg",
 			"title": "Actualización.",
